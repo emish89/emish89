@@ -32,8 +32,5 @@ A website built on AWS with RoR backend and React frontend, with more than 12k u
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
-### 😂Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
 ---
 ![](https://komarev.com/ghpvc/?username=emish89&label=Visitors+Count&color=brightgreen)
